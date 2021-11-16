@@ -1,1 +1,10 @@
 /* Write your CSS here! */
+
+#mainHeading{
+    color: red;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
