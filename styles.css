@@ -38,3 +38,11 @@ img {
   .orange{
       color: orange;
   }
+  .list{
+      padding-top: 0px;
+      margin-top: 0px;
+  }
+
+  li{
+      font-size: x-large;
+  }
